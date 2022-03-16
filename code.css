@@ -1,0 +1,117 @@
+body{
+ background-image: url(image/norway-gd3275befd_1920.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+ 
+}
+.travel{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 400px;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    letter-spacing: 1px;
+    font-size: 20px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff;
+}
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff;
+}
+div{
+   display:flex;
+}
+.real{
+    margin-left: 170px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            1 1 1 111    111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 1 1 111                                                                                                                                                                                                  1 1 1 1  1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 11                      11111111111111111111111111111111111 111 11111111111111                                                                                                                                                                                                                                                                                                                                    11  1111111111111111111111111111111111111111111111111111111111111111                                                                                                                                                       1 11                                1    11                 1 11 1                                                                                        1111111111111111111111111111111 11 11 1               1 1 11 1  1 1111 1                                                       1  1 11 11111 1111111                    0px;
+}
+#france{
+    text-align: center;
+    float: left;
+}
+#usa{   
+    text-align: center;
+    margin-left: 200px;
+    padding-top: 200px;
+    
+}
+#dubai{
+    text-align: center;
+    float: right;
+}
+#tky{
+    text-align: center;
+}
+#Taj{
+    text-align: center;
+
+}
+
+footer{
+    background-color:rgba(255, 255, 255, 0.37);
+    color: black;
+    display: block;
+}
+.emirate{
+    text-align: center;
+}
+#naruto{
+    margin: auto;
+}
+.sasuke{
+    display:flex;
+}
+.figo{
+    font-size: 20px;
+}
+.cita{
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.khadija2{
+    display: block;
+}
+.khadija3{
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+}
+.diop1{
+    display: block;
+    transition: 0.2;
+}
+.diop1:hover{
+    transform: scale(1.3);
+    z-index: 2;
+}
+h1{
+    color: white;
+}

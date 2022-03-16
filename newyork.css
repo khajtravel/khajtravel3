@@ -1,0 +1,83 @@
+ul{
+    list-style-type: none;
+    margin-top: 5px;
+    margin-left: 0px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s;
+    letter-spacing: 1px;
+    font-size: 20px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff;
+}
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff;
+}
+body{
+    background-image: url(image/WhatsApp\ Image\ 2022-03-13\ at\ 20.02.43.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#nord{
+    background-color:rgba(133, 131, 131, 0.699);
+    width:100% ;
+    margin:auto;
+    height: 100%;
+} 
+.img{
+    height: 200px;
+}
+h1{
+text-align: center;
+font-size: 50px;
+padding-top: 100px;
+font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.vidéo{
+    margin-left: 300px;
+}
+.text{
+    color:white;
+    font-size: 30px;
+}
+.contenu{
+    display: flex;
+}
+.num2{
+    color: white;
+    font-size: 28px;
+    
+}
+.num{
+    color: white;
+    font-size: 20px;
+}
+.times{
+    width: 600px;
+    height: 500px;
+}
+.num3{
+    float: right;
+    margin-left: 100px;
+}
+.tof1{
+    width: 700px;
+    height: 650px;
+    margin-left: 00px;
+    padding-top: 50px;   
+}
